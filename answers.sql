@@ -1,3 +1,7 @@
+CREATE DATABASE salesdb;
+
+USE salesdb;
+
 /* Question 1: Create the 'student' table */
 CREATE TABLE student (
     id INT PRIMARY KEY,
